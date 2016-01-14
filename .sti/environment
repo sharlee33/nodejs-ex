@@ -1,0 +1,4 @@
+NO_PROXY=200.114.42.136,200.114.42.137
+HTTP_PROXY=http://pkcw561:Pandore2013@web.pandore.log.intra.laposte.fr:8080
+HTTPS_PROXY=https://pkcw561:Pandore2013@web.pandore.log.intra.laposte.fr:8080
+
